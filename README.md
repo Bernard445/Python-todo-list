@@ -65,3 +65,39 @@ finally to run cleanup messages
 Empty-list checks
 
 Menu validation (invalid options show an error)
+
+📂 Project Structure
+todo_app.py
+README.md
+
+
+You only need one .py file for this assignment.
+
+▶️ How to Run the Program
+
+Install Python (if not already installed).
+
+Open VS Code.
+
+Open the folder containing the project.
+
+Run the file in the terminal:
+
+python todo_app.py
+
+
+Use the menu to add, view, or delete tasks.
+
+📘 Example
+Welcome
+1. Add Task
+2. View Task
+3. Delete Task
+4. Quit
+Enter your choice: 1
+Please enter your task: Buy groceries
+Task added!
+
+Enter your choice: 2
+Your tasks:
+1. Buy groceries
